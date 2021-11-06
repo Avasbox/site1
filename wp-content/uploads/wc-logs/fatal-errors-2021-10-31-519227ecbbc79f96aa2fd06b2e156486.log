@@ -1,0 +1,14 @@
+2021-10-31T14:26:25+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+
+2021-10-31T14:27:28+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+
+2021-10-31T14:28:32+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+
+2021-10-31T14:29:33+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+
+2021-10-31T14:30:28+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+
+2021-10-31T14:31:16+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+
+2021-10-31T14:32:26+00:00 CRITICAL require(): Failed opening required 'template/template-fancy-text-box-four.php' (include_path='.') в W:\domains\site.loc\wp-content\plugins\radiantthemes-addons\fancytextbox\class-radiantthemes-style-fancy-text-box.php на строке 140
+

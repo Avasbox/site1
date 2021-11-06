@@ -1,0 +1,140 @@
+
+---Загруженные файлы---
+Файлы импорта для: Demo 1 были успешно загружены!
+Начальное максимальное время выполнения = 60
+Информация о файлах:
+Сайт URL = http://site.loc
+Файл данных = W:\domains\site.loc/wp-content/themes/brixel/inc/import/one/content.xml
+Файл виджета = W:\domains\site.loc/wp-content/themes/brixel/inc/import/one/widgets.wie
+Файл настройки = W:\domains\site.loc/wp-content/themes/brixel/inc/import/one/customizer.dat
+Файлы Redux:
+brixel_theme_option -> W:\domains\site.loc/wp-content/themes/brixel/inc/import/one/redux.json 
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+[ERROR] Failed to import "New-Building-Construction-Icon" (Медиафайлы)
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+[ERROR] Failed to import "iHover-Image-006" (Медиафайлы)
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+------
+Новый вызов AJAX!
+
+
+---Импорт виджетов---
+Widgets in Menu : 
+
+Меню навигации - Design &amp; Style - Импортировано
+Меню навигации - Create &amp; Organize - Импортировано
+Меню навигации - Showcase &amp; Promote - Импортировано
+
+Sidebar : 
+
+Поиск - Search - Импортировано
+Brixel Recent Posts With Thumbnail Widget - Нет заголовка - Импортировано
+Рубрики - Categories - Импортировано
+Архивы - Archives - Импортировано
+Облако меток - Tags - Импортировано
+
+Footer | #1 : 
+
+Текст - About Brixel - Импортировано
+
+Footer | #2 : 
+
+Меню навигации - Important Links - Импортировано
+
+Footer | #3 : 
+
+Brixel Contact Box - Нет заголовка - Импортировано
+
+
+
+---Импортирование настроек Redux---
+Импорт настроек Redux для: brixel_theme_option завершено успешно!
+
+---Импорт настроек настройщика---
+Импорт настроек настройщика завершен!
+
+---ocdi/after_import---
+
